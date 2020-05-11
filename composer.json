@@ -1,0 +1,12 @@
+{
+    "name": "and1site2/calculator",
+    "description": "This package do some calculations",
+    "authors": [
+        {
+            "name": "And-code",
+            "email": "andrewgr.mob@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
