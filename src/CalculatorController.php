@@ -16,6 +16,7 @@ class CalculatorController extends Controller
         echo $a - $b;
     }
 
+    // rout with view
     public function add_view($a, $b){
         $result = $a + $b;
         $compact = compact('result');
