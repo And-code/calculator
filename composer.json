@@ -19,6 +19,6 @@
             "providers": [
                 "And1site2\\Calculator\\CalculatorServiceProvider"
             ]
-        },
+        }
     }
 }
