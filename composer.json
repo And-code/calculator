@@ -10,8 +10,15 @@
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
-            "psr-4": {
-                "And1site2\\Calculator\\": "src/"
-            }
+        "psr-4": {
+            "And1site2\\Calculator\\": "src"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "And1site2\\Calculator\\CalculatorServiceProvider"
+            ]
+        },
+    }
 }
